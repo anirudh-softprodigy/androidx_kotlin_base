@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBtnColorRed">#ED5B5C</color>
+    <color name="colorRedText">#EC5A5B</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorRegisterText">#666666</color>
+    <color name="colorLightGrey">#B2B2B2</color>
+    <color name="colorGreenButton">#36AFA6</color>
+    <color name="colorProfileRed">#F15D5D</color>
+    <color name="colroProfileGrey">#656565</color></resources>
